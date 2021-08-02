@@ -20,7 +20,7 @@
  En caso de utilizar el ejecutable, bastaría con crear un directorio llamado cloud en el cual se depositaría la nube de puntos en formato CSV y haciendo doble click se empezaría a ejecutar el programa
 
     
-##AVISO
+## AVISO
 
 Este programa está siendo registrado en la Propiedad Intelectual con código M-5306-21
 
